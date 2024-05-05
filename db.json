@@ -18,6 +18,25 @@
       "AccountNumber":"String",
       "accounttype":"String",
       "entryDate":  "uy"
+    },
+    {
+      "id":1,
+      "username": "String",
+      "password": "String",
+      "firstname": "String",
+      "lastname": "String",
+      "phone": "String",
+      "address": "String",
+      "balance": 200,
+      "budget": 100,
+      "spend": 20,
+      "CardNumber": "String",
+      "ExpMonth": 4,
+      "ExpYear": 27,
+      "CVV":456,
+      "AccountNumber":"String",
+      "accounttype":"String",
+      "entryDate":  "uy"
     }
   ],
   "transection": [
