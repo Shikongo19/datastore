@@ -4,6 +4,7 @@
   "description": "[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)",
   "main": "index.js",
   "scripts": {
+    "start": "npm json-server db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

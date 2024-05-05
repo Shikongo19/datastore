@@ -1,7 +1,7 @@
 {
   "accounts": [
     {
-      "id":1,
+      "id": "1",
       "username": "String",
       "password": "String",
       "firstname": "String",
@@ -14,13 +14,13 @@
       "CardNumber": "String",
       "ExpMonth": 4,
       "ExpYear": 27,
-      "CVV":456,
-      "AccountNumber":"String",
-      "accounttype":"String",
-      "entryDate":  "uy"
+      "CVV": 456,
+      "AccountNumber": "String",
+      "accounttype": "String",
+      "entryDate": "uy"
     },
     {
-      "id":2,
+      "id": "2",
       "username": "String",
       "password": "String",
       "firstname": "String",
@@ -33,18 +33,27 @@
       "CardNumber": "String",
       "ExpMonth": 4,
       "ExpYear": 27,
-      "CVV":456,
-      "AccountNumber":"String",
-      "accounttype":"String",
-      "entryDate":  "uy"
+      "CVV": 456,
+      "AccountNumber": "String",
+      "accounttype": "String",
+      "entryDate": "uy"
+    },
+    {
+      "id": "2dd2",
+      "title": "Lion",
+      "desc": "Funny book",
+      "picture": "from pos man"
+    },
+    {
+      "id": "c52c"
     }
   ],
   "transection": [
     {
-      "id": 1,
-      "Description":"String",
-      "ammount":10,
-      "type":"String",
+      "id": "1",
+      "Description": "String",
+      "ammount": 10,
+      "type": "String",
       "entryDate": "ju"
     }
   ]
